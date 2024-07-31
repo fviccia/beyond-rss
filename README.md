@@ -43,7 +43,6 @@ The flow of data:
 - **RSS Feed Aggregation**: Automatically fetches and updates RSS feed entries.
 - **AI-driven Recommendations**: Uses AI models to generate personalized content recommendations.
 - **User Preferences**: Collects and utilizes user feedback (like/dislike) to refine recommendations.
-- **Web Interface**: Provides a user-friendly web application for managing subscriptions and preferences.
 
 ## Setup Instructions
 
